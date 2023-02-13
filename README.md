@@ -1,4 +1,4 @@
-# Netflix-Analysis
+# Netflix-Analysis-and-dashboard
 
 CONTENT 
 - Data analysis and data discription.
