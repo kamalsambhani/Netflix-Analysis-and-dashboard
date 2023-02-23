@@ -2,8 +2,7 @@
 
 CONTENT 
 - Data analysis and data discription.
-- Objective
-- Lookup and Conditionl formatting
+- Lookup and Conditional formatting
 - Business questions to be answered using pivot table and dashboard
 - Finding insights from pivot table and dashboard.
 
