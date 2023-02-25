@@ -1,9 +1,9 @@
 # Netflix-Analysis-and-dashboard
 
 CONTENT 
-- Data analysis and data discription.
+- Data analysis and data description.
 - Lookup and Conditional formatting
-- Business questions to be answered using pivot table and dashboard
+- Business questions are to be answered using a pivot table and dashboard
 - Finding insights from pivot table and dashboard.
 
 DATA DESCRIPTION
